@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Kharapkar</h1>
 <h3 align="center">🚀 DevOps Engineer | Automating Infrastructure & Scaling Cloud Solutions ⚡ AWS | Kubernetes | Terraform | CI/CD | Observability</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagark45&label=Profile%20views&color=0e75b6&style=flat" alt="sagark45" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagark45" alt="sagark45" /></a> </p>
 
 - 🔭 I’m currently working in **Sweply**
