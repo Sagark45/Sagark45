@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagark45" alt="sagark45" /></a> </p>
 
-- 🔭 I’m currently working in **Salla**
+- 🔭 I’m currently working in **Salla-ads**
 
 - 🌱 I’m currently learning **AIOps,FinOps**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sagark12](https://medium.com/@sagark12)
 
-- 💬 Ask me about **AUTOMATION ,TERRAFORM.**
+- 💬 Ask me about **AUTOMATION |TERRAFORM | AWS-Cloud Solutions | Kubernetes | DevOps | Docker**
 
 - 📫 How to reach me **sagarkharapkar12@gmail.com**
 
