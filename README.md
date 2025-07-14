@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sagark45](https://github.com/Sagark45)
 
-- 📝 I regularly write articles on [https://medium.com/@sagark12](https://medium.com/@sagark12)
+- 📝 I regularly write articles on [https://dev.to/sagark4578](https://dev.to/sagark4578)
 
 - 💬 Ask me about **AUTOMATION |TERRAFORM | AWS-Cloud Solutions | Kubernetes | DevOps | Docker**
 
